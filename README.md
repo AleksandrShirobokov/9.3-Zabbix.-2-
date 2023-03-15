@@ -5,3 +5,5 @@
 ![Снимок экрана (48)](https://user-images.githubusercontent.com/69298696/225212696-78dea67c-b272-4d0a-a363-c59dd9335193.png)
 ### Также создаю два элемента данных для получения информации о загрузке процессора и памяти:
 ![Снимок экрана (49)](https://user-images.githubusercontent.com/69298696/225212968-93d81515-4834-4c83-aedf-f742e04abe12.png)
+## Задание 4. Создайте свой кастомный дашборд.
+![Снимок экрана (52)](https://user-images.githubusercontent.com/69298696/225217221-b381af15-1aa0-4922-aa6b-3c1ebcea6ef7.png)
