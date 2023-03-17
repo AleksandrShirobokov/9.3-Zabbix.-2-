@@ -14,3 +14,8 @@
 ![Снимок экрана (53)](https://user-images.githubusercontent.com/69298696/225221944-b721cadf-0a35-43ef-9ae6-92e392c51600.png)
 ### Связи нет:
 ![Снимок экрана (54)](https://user-images.githubusercontent.com/69298696/225222055-dfbbdb4f-8cb7-4d11-b0cb-31ea084d9a77.png)
+## Задание 7. Доработайте Python-скрипт из лекции, создайте для него UserParameter и прикрепите его к созданному вами ранее шаблону.
+### Скрипт:
+![Снимок экрана (55)](https://user-images.githubusercontent.com/69298696/225817791-80c660a5-0a59-4d10-af30-05b6d9daba71.png)
+### Итемы в работе:
+![Снимок экрана (56)](https://user-images.githubusercontent.com/69298696/225817965-f604a88d-b77f-49c2-bd31-92d748c58295.png)
